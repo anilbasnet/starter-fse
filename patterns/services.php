@@ -29,7 +29,7 @@
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"},"blockGap":"10px"}},"backgroundColor":"background","className":"has-style-box-shadow","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-style-box-shadow has-background-background-color has-background" style="padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"15px"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:15px"><!-- wp:image {"align":"center","id":112,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":["#224303","#224303"]}}} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/icon-1.png" alt="" class="wp-image-111" style="width:50px;height:50px" width="50" height="50"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/icon-1.png" alt="" class="wp-image-112" style="width:50px;height:50px" width="50" height="50"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

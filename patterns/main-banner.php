@@ -10,11 +10,11 @@
 <div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px","padding":{"top":"55px","right":"0px","bottom":"55px","left":"0px"}}},"layout":{"inherit":false,"wideSize":"1500px"}} -->
 <div class="wp-block-group alignwide" style="padding-top:55px;padding-right:0px;padding-bottom:55px;padding-left:0px"><!-- wp:heading {"textAlign":"left","level":3,"style":{"typography":{"lineHeight":"1.5"}},"textColor":"foreground"} -->
-<h3 class="wp-block-heading has-text-align-left has-foreground-color has-text-color" style="line-height:1.5"><?php echo esc_html__( 'We Make a Difference', 'starter-fse' ); ?></h3>
+<h3 class="wp-block-heading has-text-align-left has-foreground-color has-text-color" style="line-height:1.5"><?php echo esc_html__( 'Make a Difference', 'starter-fse' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"left","style":{"typography":{"lineHeight":"1.3","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"bottom":"var:preset|spacing|60","top":"var:preset|spacing|50"}}},"textColor":"foreground","fontSize":"extra-large"} -->
-<h2 class="wp-block-heading has-text-align-left has-foreground-color has-text-color has-extra-large-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60);font-style:normal;font-weight:700;line-height:1.3"><?php echo esc_html__( 'We Make WordPress Block Themes', 'starter-fse' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-left has-foreground-color has-text-color has-extra-large-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60);font-style:normal;font-weight:700;line-height:1.3"><?php echo esc_html__( 'Business Planning, Strategy & Execution', 'starter-fse' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","textColor":"foreground","className":" animated animated-fadeInUp","fontSize":"normal"} -->
