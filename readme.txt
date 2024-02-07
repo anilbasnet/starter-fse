@@ -4,7 +4,7 @@ Tags: blog, news, entertainment, grid-layout, one-column, two-columns, right-sid
 Requires at least: 6.1
 Tested up to: 6.3
 Requires PHP: 5.6
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,6 +22,10 @@ Starter Fse is a minimal and lightweight Full Site Editing theme. This speed opt
 
 
 == Changelog ==
+= 1.0.2 - 20 feb 2023 =
+* Css Fixing
+* Auther Url 
+
 = 1.0.1 - 20 Sep 2023 =
 * Screenshot Change
 * Auther Url 
